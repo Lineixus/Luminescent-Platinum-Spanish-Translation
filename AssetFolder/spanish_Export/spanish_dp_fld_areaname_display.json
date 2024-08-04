@@ -4329,8 +4329,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mining Museum",
-                    "strWidth": 149.8125
+                    "str": "Museo Minero",
+                    "strWidth": 186.828125
                 }
             ]
         },
@@ -4359,8 +4359,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "T.G. Eterna Bldg",
-                    "strWidth": 149.8125
+                    "str": "Edificio Galaxia",
+                    "strWidth": 204.578125
                 }
             ]
         },
@@ -4389,8 +4389,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cycle Shop",
-                    "strWidth": 149.8125
+                    "str": "Tienda de Bicis",
+                    "strWidth": 197.453125
                 }
             ]
         },
@@ -4419,8 +4419,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lost Tower",
-                    "strWidth": 149.8125
+                    "str": "Torre Perdida",
+                    "strWidth": 177.609375
                 }
             ]
         }

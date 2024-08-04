@@ -3069,8 +3069,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Castle Valet",
-                    "strWidth": 142.109375
+                    "str": "Mozo del Castillo",
+                    "strWidth": 229.140625
                 }
             ]
         },
@@ -3099,8 +3099,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Contest Queen",
-                    "strWidth": 142.109375
+                    "str": "Reina del Concurso",
+                    "strWidth": 251.296875
                 }
             ]
         },
@@ -3129,8 +3129,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mysterious Girl",
-                    "strWidth": 162.109375
+                    "str": "Chica Misteriosa",
+                    "strWidth": 213.71875
                 }
             ]
         },
@@ -3159,8 +3159,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Arcade Star",
-                    "strWidth": 162.109375
+                    "str": "Estrella de las Recreativas",
+                    "strWidth": 334.765625
                 }
             ]
         }

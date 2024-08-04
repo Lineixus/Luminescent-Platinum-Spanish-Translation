@@ -6579,8 +6579,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "T.G. Eterna Bldg",
-                    "strWidth": 149.8125
+                    "str": "Edificio Galaxia",
+                    "strWidth": 204.578125
                 }
             ]
         },
@@ -6609,8 +6609,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "the Sinnoh Champion",
-                    "strWidth": 149.8125
+                    "str": "el Campeón de Sinnoh",
+                    "strWidth": 294.1875
                 }
             ]
         },
@@ -6669,8 +6669,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "in the Lost Tower",
-                    "strWidth": 149.8125
+                    "str": "en la Torre Perdida",
+                    "strWidth": 249.578125
                 }
             ]
         }

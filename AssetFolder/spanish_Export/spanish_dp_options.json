@@ -490,7 +490,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Estás en:",
-                    "strWidth": 114.546875
+                    "strWidth": 113.109375
                 }
             ]
         },
@@ -891,7 +891,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Comprar 10 tarros por 1000 ",
-                    "strWidth": 389.515625
+                    "strWidth": 281.40625
                 }
             ]
         },
@@ -1474,8 +1474,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "　",
-                    "strWidth": 25.59375
+                    "str": "",
+                    "strWidth": 0.0
                 }
             ]
         },
@@ -1764,7 +1764,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "P1",
-                    "strWidth": 30.265628814697266
+                    "strWidth": 16.28125
                 }
             ]
         },
@@ -1794,7 +1794,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "P2",
-                    "strWidth": 34.265625
+                    "strWidth": 16.28125
                 }
             ]
         },
@@ -1824,7 +1824,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "P3",
-                    "strWidth": 34.265625
+                    "strWidth": 16.28125
                 }
             ]
         },
@@ -1854,7 +1854,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "P4",
-                    "strWidth": 34.265625
+                    "strWidth": 16.28125
                 }
             ]
         },
@@ -1884,7 +1884,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "P-1",
-                    "strWidth": 41.468753814697266
+                    "strWidth": 27.484375
                 }
             ]
         },
@@ -1914,7 +1914,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "P-2",
-                    "strWidth": 45.46875
+                    "strWidth": 27.484375
                 }
             ]
         },
@@ -2236,7 +2236,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "¿Cómo se registra un amigo?",
-                    "strWidth": 374.453125
+                    "strWidth": 368.65625
                 }
             ]
         },
@@ -2266,7 +2266,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "¡Entendido!",
-                    "strWidth": 146.875
+                    "strWidth": 148.28125
                 }
             ]
         },
@@ -2296,7 +2296,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "¿Me lo puedes repetir?",
-                    "strWidth": 301.5625
+                    "strWidth": 295.765625
                 }
             ]
         },
@@ -2596,7 +2596,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Zona 1",
-                    "strWidth": 88.85938262939453
+                    "strWidth": 74.875
                 }
             ]
         },
@@ -2626,7 +2626,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Zona 2",
-                    "strWidth": 92.859375
+                    "strWidth": 74.875
                 }
             ]
         },
@@ -2656,7 +2656,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Zona 3",
-                    "strWidth": 92.859375
+                    "strWidth": 74.875
                 }
             ]
         },
@@ -2686,7 +2686,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Zona 4",
-                    "strWidth": 92.859375
+                    "strWidth": 74.875
                 }
             ]
         },
@@ -2716,7 +2716,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Zona 5",
-                    "strWidth": 92.859375
+                    "strWidth": 74.875
                 }
             ]
         },
@@ -2746,7 +2746,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Zona 6",
-                    "strWidth": 92.859375
+                    "strWidth": 74.875
                 }
             ]
         },
@@ -3454,7 +3454,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "¿Qué recomiendas?",
-                    "strWidth": 256.25
+                    "strWidth": 250.453125
                 }
             ]
         },
@@ -4114,7 +4114,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Historia 1",
-                    "strWidth": 123.56250762939453
+                    "strWidth": 109.578125
                 }
             ]
         },
@@ -4144,7 +4144,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Historia 2",
-                    "strWidth": 127.5625
+                    "strWidth": 109.578125
                 }
             ]
         },
@@ -4174,7 +4174,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Historia 3",
-                    "strWidth": 127.5625
+                    "strWidth": 109.578125
                 }
             ]
         },
@@ -5458,7 +5458,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "¿Con qué Pokémon quieres usarlo?",
-                    "strWidth": 455.671875
+                    "strWidth": 449.875
                 }
             ]
         },
@@ -5819,7 +5819,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Distorsión (Platino)",
-                    "strWidth": 251.09375
+                    "strWidth": 245.71875
                 }
             ]
         },
@@ -5849,7 +5849,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Trío (Platino)",
-                    "strWidth": 172.6875
+                    "strWidth": 167.3125
                 }
             ]
         },
@@ -5879,7 +5879,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Concurso (Platino)",
-                    "strWidth": 241.984375
+                    "strWidth": 236.609375
                 }
             ]
         },
@@ -5909,7 +5909,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Pikapika (Platino)",
-                    "strWidth": 230.109375
+                    "strWidth": 224.734375
                 }
             ]
         },
@@ -5939,7 +5939,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Nostalgia (Platino)",
-                    "strWidth": 243.65625
+                    "strWidth": 238.28125
                 }
             ]
         },
@@ -5969,7 +5969,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Leyenda (Platino)",
-                    "strWidth": 230.578125
+                    "strWidth": 225.203125
                 }
             ]
         },
@@ -5999,7 +5999,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Croagunk (Platino)",
-                    "strWidth": 245.65625
+                    "strWidth": 240.28125
                 }
             ]
         },
@@ -6029,7 +6029,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Equipo Galaxia (Platino)",
-                    "strWidth": 319.609375
+                    "strWidth": 314.234375
                 }
             ]
         },
@@ -8000,8 +8000,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": " Atrás",
-                    "strWidth": 75.3125
+                    "str": "Atrás",
+                    "strWidth": 66.640625
                 }
             ]
         },
@@ -8030,8 +8030,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": " Cambiar",
-                    "strWidth": 116.75
+                    "str": "Cambiar",
+                    "strWidth": 108.078125
                 }
             ]
         },
@@ -8211,7 +8211,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Comprar 1 botella por 500 ",
-                    "strWidth": 375.5
+                    "strWidth": 299.359375
                 }
             ]
         },
@@ -8241,7 +8241,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Comprar 10 botellas por 5000 ",
-                    "strWidth": 422.984375
+                    "strWidth": 310.875
                 }
             ]
         },
@@ -8331,7 +8331,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Comprar 1 tarro por 100 ",
-                    "strWidth": 342.03125
+                    "strWidth": 269.890625
                 }
             ]
         },
@@ -10094,11 +10094,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Experience",
-                    "strWidth": 150.9375
+                    "str": "Experiencia",
+                    "strWidth": 149.203125
                 }
             ]
         },
@@ -10124,11 +10124,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "HP",
-                    "strWidth": 46.96875
+                    "strWidth": 38.296875
                 }
             ]
         },
@@ -10154,11 +10154,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Attack",
-                    "strWidth": 92.953125
+                    "str": "Ataque",
+                    "strWidth": 94.296875
                 }
             ]
         },
@@ -10184,11 +10184,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Defense",
-                    "strWidth": 115.546875
+                    "str": "Defensa",
+                    "strWidth": 106.203125
                 }
             ]
         },
@@ -10214,11 +10214,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Special Attack",
-                    "strWidth": 194.9375
+                    "str": "Ataque Especial",
+                    "strWidth": 208.1875
                 }
             ]
         },
@@ -10244,11 +10244,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Special Defense",
-                    "strWidth": 217.53125
+                    "str": "Defensa Especial",
+                    "strWidth": 220.09375
                 }
             ]
         },
@@ -10274,11 +10274,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Speed",
-                    "strWidth": 90.59375
+                    "str": "Velocidad",
+                    "strWidth": 132.328125
                 }
             ]
         },
@@ -10304,11 +10304,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cancel",
-                    "strWidth": 97.5
+                    "str": "Salir",
+                    "strWidth": 55.796875
                 }
             ]
         },
@@ -10334,11 +10334,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "High",
-                    "strWidth": 70.0625
+                    "str": "Alto",
+                    "strWidth": 55.109375
                 }
             ]
         },
@@ -10364,11 +10364,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Medium",
-                    "strWidth": 113.8125
+                    "str": "Medio",
+                    "strWidth": 84.0
                 }
             ]
         },
@@ -10394,11 +10394,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Low",
-                    "strWidth": 60.609375
+                    "str": "Bajo",
+                    "strWidth": 57.09375
                 }
             ]
         },
@@ -10424,11 +10424,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Lv. 25",
-                    "strWidth": 54.296875
+                    "strWidth": 45.625
                 }
             ]
         },
@@ -10454,11 +10454,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Lv. 35",
-                    "strWidth": 54.296875
+                    "strWidth": 45.625
                 }
             ]
         },
@@ -10484,11 +10484,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Lv. 45",
-                    "strWidth": 54.296875
+                    "strWidth": 45.625
                 }
             ]
         },
@@ -10514,11 +10514,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Lv. 55",
-                    "strWidth": 54.296875
+                    "strWidth": 45.625
                 }
             ]
         },
@@ -10544,11 +10544,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Lv. 65",
-                    "strWidth": 54.296875
+                    "strWidth": 45.625
                 }
             ]
         },
@@ -10574,11 +10574,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Lv. 75",
-                    "strWidth": 54.296875
+                    "strWidth": 45.625
                 }
             ]
         },
@@ -10604,11 +10604,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Lv. 85",
-                    "strWidth": 54.296875
+                    "strWidth": 45.625
                 }
             ]
         },
@@ -10634,11 +10634,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Water Stone",
-                    "strWidth": 171.15625
+                    "str": "Piedra Agua",
+                    "strWidth": 157.953125
                 }
             ]
         },
@@ -10664,11 +10664,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Thunder Stone",
-                    "strWidth": 198.3125
+                    "str": "Piedra Trueno",
+                    "strWidth": 181.828125
                 }
             ]
         },
@@ -10694,11 +10694,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fire Stone",
-                    "strWidth": 140.9375
+                    "str": "Piedra Fuego",
+                    "strWidth": 171.8125
                 }
             ]
         },
@@ -10724,11 +10724,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sun Stone",
-                    "strWidth": 138.15625
+                    "str": "Piedra Solar",
+                    "strWidth": 156.109375
                 }
             ]
         },
@@ -10754,11 +10754,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Moon Stone",
-                    "strWidth": 167.421875
+                    "str": "Piedra Lunar",
+                    "strWidth": 161.84375
                 }
             ]
         },
@@ -10784,11 +10784,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Leaf Stone",
-                    "strWidth": 147.546875
+                    "str": "Piedra Hoja",
+                    "strWidth": 152.5625
                 }
             ]
         },
@@ -10814,11 +10814,11 @@
             "wordDataArray": [
                 {
                     "patternID": 0,
-                    "eventID": 0,
+                    "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Ice Stone",
-                    "strWidth": 129.859375
+                    "str": "Piedra Hielo",
+                    "strWidth": 161.296875
                 }
             ]
         },
@@ -10847,8 +10847,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fashion Catalogue",
-                    "strWidth": 106.921875
+                    "str": "Catalogo de moda",
+                    "strWidth": 242.21875
                 }
             ]
         },
@@ -10877,8 +10877,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Clothing",
-                    "strWidth": 106.921875
+                    "str": "Cambiar de ropa",
+                    "strWidth": 218.03125
                 }
             ]
         },
@@ -10907,8 +10907,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Settings",
-                    "strWidth": 106.921875
+                    "str": "Ajustes",
+                    "strWidth": 92.078125
                 }
             ]
         },
@@ -10937,8 +10937,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "EXP Share (Off)",
-                    "strWidth": 106.921875
+                    "str": "Repartir Exp. (Desactivar)",
+                    "strWidth": 328.796875
                 }
             ]
         },
@@ -10967,8 +10967,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "EXP Share (On)",
-                    "strWidth": 106.921875
+                    "str": "Repartir Exp. (Activar)",
+                    "strWidth": 284.03125
                 }
             ]
         },
@@ -10997,8 +10997,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Affection (Off)",
-                    "strWidth": 106.921875
+                    "str": "Afecto (Desactivar)",
+                    "strWidth": 248.5625
                 }
             ]
         },
@@ -11027,8 +11027,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Affection (On)",
-                    "strWidth": 106.921875
+                    "str": "Afecto (Activar)",
+                    "strWidth": 203.796875
                 }
             ]
         },
@@ -11058,7 +11058,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Turtwig",
-                    "strWidth": 106.921875
+                    "strWidth": 96.015625
                 }
             ]
         },
@@ -11088,7 +11088,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Piplup",
-                    "strWidth": 106.921875
+                    "strWidth": 81.75
                 }
             ]
         },
@@ -11118,7 +11118,7 @@
                     "tagIndex": -1,
                     "tagValue": 0.0,
                     "str": "Chimchar",
-                    "strWidth": 106.921875
+                    "strWidth": 120.640625
                 }
             ]
         },
@@ -11147,8 +11147,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Level Cap (Off)",
-                    "strWidth": 106.921875
+                    "str": "Limite de nivel (Desactivar)",
+                    "strWidth": 352.078125
                 }
             ]
         },
@@ -11177,8 +11177,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Level Cap (On)",
-                    "strWidth": 106.921875
+                    "str": "Limite de nivel (Activar)",
+                    "strWidth": 307.3125
                 }
             ]
         },
@@ -11207,8 +11207,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Show new Abra",
-                    "strWidth": 199.03125
+                    "str": "Mostrar nuevo Abra",
+                    "strWidth": 257.34375
                 }
             ]
         },
@@ -11237,8 +11237,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Get mints",
-                    "strWidth": 125.484375
+                    "str": "Coger mentas",
+                    "strWidth": 179.015625
                 }
             ]
         },
@@ -11267,8 +11267,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Hardy",
-                    "strWidth": 78.625
+                    "str": "Fuerte",
+                    "strWidth": 83.375
                 }
             ]
         },
@@ -11297,8 +11297,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lonely",
-                    "strWidth": 85.828125
+                    "str": "Huraña",
+                    "strWidth": 93.421875
                 }
             ]
         },
@@ -11327,8 +11327,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Brave",
-                    "strWidth": 72.3125
+                    "str": "Audaz",
+                    "strWidth": 81.3125
                 }
             ]
         },
@@ -11357,8 +11357,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Adamant",
-                    "strWidth": 116.34375
+                    "str": "Firme",
+                    "strWidth": 72.109375
                 }
             ]
         },
@@ -11387,8 +11387,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Naughty",
-                    "strWidth": 108.6875
+                    "str": "Pícara",
+                    "strWidth": 78.09375
                 }
             ]
         },
@@ -11417,8 +11417,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bold",
-                    "strWidth": 59.53125
+                    "str": "Osada",
+                    "strWidth": 83.78125
                 }
             ]
         },
@@ -11447,8 +11447,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Docile",
-                    "strWidth": 84.578125
+                    "str": "Dócil",
+                    "strWidth": 68.609375
                 }
             ]
         },
@@ -11477,8 +11477,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Relaxed",
-                    "strWidth": 104.390625
+                    "str": "Plácida",
+                    "strWidth": 93.5
                 }
             ]
         },
@@ -11507,8 +11507,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Impish",
-                    "strWidth": 83.0625
+                    "str": "Agitada",
+                    "strWidth": 101.84375
                 }
             ]
         },
@@ -11537,8 +11537,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lax",
-                    "strWidth": 44.734375
+                    "str": "Floja",
+                    "strWidth": 63.71875
                 }
             ]
         },
@@ -11567,8 +11567,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Timid",
-                    "strWidth": 72.34375
+                    "str": "Miedosa",
+                    "strWidth": 110.8125
                 }
             ]
         },
@@ -11597,8 +11597,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Hasty",
-                    "strWidth": 73.25
+                    "str": "Activa",
+                    "strWidth": 81.109375
                 }
             ]
         },
@@ -11627,8 +11627,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Serious",
-                    "strWidth": 92.9375
+                    "str": "Seria",
+                    "strWidth": 63.984375
                 }
             ]
         },
@@ -11657,8 +11657,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Jolly",
-                    "strWidth": 59.734375
+                    "str": "Alegre",
+                    "strWidth": 85.6875
                 }
             ]
         },
@@ -11687,8 +11687,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Naive",
-                    "strWidth": 74.578125
+                    "str": "Ingenua",
+                    "strWidth": 102.578125
                 }
             ]
         },
@@ -11717,8 +11717,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Modest",
-                    "strWidth": 97.953125
+                    "str": "Modesta",
+                    "strWidth": 113.25
                 }
             ]
         },
@@ -11747,8 +11747,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mild",
-                    "strWidth": 58.65625
+                    "str": "Afable",
+                    "strWidth": 86.1875
                 }
             ]
         },
@@ -11777,8 +11777,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Quiet",
-                    "strWidth": 73.59375
+                    "str": "Mansa",
+                    "strWidth": 83.671875
                 }
             ]
         },
@@ -11807,8 +11807,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Bashful",
-                    "strWidth": 92.828125
+                    "str": "Tímida",
+                    "strWidth": 87.640625
                 }
             ]
         },
@@ -11837,8 +11837,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Rash",
-                    "strWidth": 60.015625
+                    "str": "Alocada",
+                    "strWidth": 106.890625
                 }
             ]
         },
@@ -11867,8 +11867,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Calm",
-                    "strWidth": 66.046875
+                    "str": "Serena",
+                    "strWidth": 87.921875
                 }
             ]
         },
@@ -11897,8 +11897,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Gentle",
-                    "strWidth": 88.671875
+                    "str": "Amable",
+                    "strWidth": 99.140625
                 }
             ]
         },
@@ -11927,8 +11927,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Sassy",
-                    "strWidth": 68.15625
+                    "str": "Grosera",
+                    "strWidth": 102.578125
                 }
             ]
         },
@@ -11957,8 +11957,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Careful",
-                    "strWidth": 94.296875
+                    "str": "Cauta",
+                    "strWidth": 76.46875
                 }
             ]
         },
@@ -11987,8 +11987,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Quirky",
-                    "strWidth": 86.421875
+                    "str": "Rara",
+                    "strWidth": 57.875
                 }
             ]
         },
@@ -12077,8 +12077,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Quests",
-                    "strWidth": 89.015625
+                    "str": "Misiones",
+                    "strWidth": 112.9375
                 }
             ]
         },
@@ -12107,8 +12107,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Nothing",
-                    "strWidth": 103.78125
+                    "str": "Nada",
+                    "strWidth": 69.5
                 }
             ]
         },
@@ -12137,8 +12137,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Toggle Box System",
-                    "strWidth": 246.765625
+                    "str": "Cambiar Sistema de Almacenamiento",
+                    "strWidth": 481.75
                 }
             ]
         },
@@ -12257,8 +12257,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cancel",
-                    "strWidth": 88.828125
+                    "str": "Salir",
+                    "strWidth": 55.796875
                 }
             ]
         },
@@ -12317,8 +12317,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Attack Mints",
-                    "strWidth": 163.6875
+                    "str": "Mentas de ataque",
+                    "strWidth": 234.453125
                 }
             ]
         },
@@ -12347,8 +12347,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Defense Mints",
-                    "strWidth": 186.28125
+                    "str": "Mentas de defensa",
+                    "strWidth": 246.359375
                 }
             ]
         },
@@ -12377,8 +12377,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Special Attack Mints",
-                    "strWidth": 265.671875
+                    "str": "Mentas de ataque especial",
+                    "strWidth": 348.46875
                 }
             ]
         },
@@ -12407,8 +12407,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Special Defense Mints",
-                    "strWidth": 288.265625
+                    "str": "Mentas de defensa especial",
+                    "strWidth": 360.375
                 }
             ]
         },
@@ -12437,8 +12437,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Speed Mints",
-                    "strWidth": 161.328125
+                    "str": "Mentas de velocidad",
+                    "strWidth": 271.390625
                 }
             ]
         },
@@ -12467,8 +12467,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Neutral Mints",
-                    "strWidth": 175.359375
+                    "str": "Mentas neutrales",
+                    "strWidth": 220.453125
                 }
             ]
         },
@@ -12677,8 +12677,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Red",
-                    "strWidth": 50.875
+                    "str": "Rojo",
+                    "strWidth": 59.265625
                 }
             ]
         },
@@ -12707,8 +12707,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Blue",
-                    "strWidth": 56.640625
+                    "str": "Azul",
+                    "strWidth": 56.515625
                 }
             ]
         },
@@ -12737,8 +12737,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Neither",
-                    "strWidth": 96.453125
+                    "str": "Ninguno",
+                    "strWidth": 109.3125
                 }
             ]
         },
@@ -12767,8 +12767,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cancel",
-                    "strWidth": 88.828125
+                    "str": "Salir",
+                    "strWidth": 55.796875
                 }
             ]
         },
@@ -12797,8 +12797,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Coal Badge",
-                    "strWidth": 151.203125
+                    "str": "Medalla Lignito",
+                    "strWidth": 203.21875
                 }
             ]
         },
@@ -12827,8 +12827,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Forest Badge",
-                    "strWidth": 171.21875
+                    "str": "Medalla Bosque",
+                    "strWidth": 208.875
                 }
             ]
         },
@@ -12857,8 +12857,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Relic Badge",
-                    "strWidth": 153.65625
+                    "str": "Medalla Reliquia",
+                    "strWidth": 218.8125
                 }
             ]
         },
@@ -12887,8 +12887,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Cobble Badge",
-                    "strWidth": 186.375
+                    "str": "Medalla Adoquín",
+                    "strWidth": 224.671875
                 }
             ]
         },
@@ -12917,8 +12917,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Fen Badge",
-                    "strWidth": 138.421875
+                    "str": "Medalla Ciénaga",
+                    "strWidth": 220.25
                 }
             ]
         },
@@ -12947,8 +12947,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Mine Badge",
-                    "strWidth": 155.859375
+                    "str": "Medalla Mina",
+                    "strWidth": 178.53125
                 }
             ]
         },
@@ -12977,8 +12977,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Icicle Badge",
-                    "strWidth": 158.375
+                    "str": "Medalla Carámbano",
+                    "strWidth": 262.5625
                 }
             ]
         },
@@ -13007,8 +13007,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Beacon Badge",
-                    "strWidth": 185.984375
+                    "str": "Medalla Faro",
+                    "strWidth": 172.328125
                 }
             ]
         },
@@ -13044,12 +13044,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 0,
+                    "patternID": 7,
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 1: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 102.015625
                 },
                 {
                     "patternID": 5,
@@ -13101,12 +13101,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 0,
+                    "patternID": 7,
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 2: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 102.015625
                 },
                 {
                     "patternID": 5,
@@ -13158,12 +13158,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 0,
+                    "patternID": 7,
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 3: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 102.015625
                 },
                 {
                     "patternID": 5,
@@ -13215,12 +13215,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 0,
+                    "patternID": 7,
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 4: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 102.015625
                 },
                 {
                     "patternID": 5,
@@ -13272,12 +13272,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 0,
+                    "patternID": 7,
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 5: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 102.015625
                 },
                 {
                     "patternID": 5,
@@ -13329,12 +13329,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 0,
+                    "patternID": 7,
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 6: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 102.015625
                 },
                 {
                     "patternID": 5,
@@ -13386,12 +13386,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 0,
+                    "patternID": 7,
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 1: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 102.015625
                 },
                 {
                     "patternID": 5,
@@ -13443,12 +13443,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 0,
+                    "patternID": 7,
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 2: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 102.015625
                 },
                 {
                     "patternID": 5,
@@ -13500,12 +13500,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 0,
+                    "patternID": 7,
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 3: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 102.015625
                 },
                 {
                     "patternID": 5,
@@ -13557,12 +13557,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 0,
+                    "patternID": 7,
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 4: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 102.015625
                 },
                 {
                     "patternID": 5,
@@ -13614,12 +13614,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 0,
+                    "patternID": 7,
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 5: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 102.015625
                 },
                 {
                     "patternID": 5,
@@ -13671,12 +13671,12 @@
             ],
             "wordDataArray": [
                 {
-                    "patternID": 0,
+                    "patternID": 7,
                     "eventID": 0,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Slot 6: ",
-                    "strWidth": 76.453125
+                    "str": "",
+                    "strWidth": 102.015625
                 },
                 {
                     "patternID": 5,
@@ -13721,8 +13721,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "like the change of a season. (Unova)",
-                    "strWidth": 470.3125
+                    "str": "como un cambio de estación. (Teselia)",
+                    "strWidth": 496.375
                 }
             ]
         },
@@ -13751,8 +13751,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "old, almost ancient. (Kalos)",
-                    "strWidth": 351.65625
+                    "str": "antiguo, como de un pasado remoto. (Kalos)",
+                    "strWidth": 576.25
                 }
             ]
         },
@@ -13781,8 +13781,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "tropical, infused with sunlight. (Alola)",
-                    "strWidth": 481.875
+                    "str": "tropical, bañado por la luz solar. (Alola)",
+                    "strWidth": 515.796875
                 }
             ]
         },
@@ -13811,8 +13811,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "like lush, open fields. (Galar)",
-                    "strWidth": 372.625
+                    "str": "como enormes campos abiertos. (Galar)",
+                    "strWidth": 513.234375
                 }
             ]
         },
@@ -13841,8 +13841,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Shiny Stone",
-                    "strWidth": 151.46875
+                    "str": "Piedra Día",
+                    "strWidth": 135.78125
                 }
             ]
         },
@@ -13871,8 +13871,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Current Levelcap",
-                    "strWidth": 220.671875
+                    "str": "Limite de nivel actual",
+                    "strWidth": 277.15625
                 }
             ]
         },
@@ -13931,8 +13931,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Quests",
-                    "strWidth": 89.015625
+                    "str": "Misiones",
+                    "strWidth": 112.9375
                 }
             ]
         },
@@ -13961,8 +13961,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Battle",
-                    "strWidth": 76.453125
+                    "str": "Lucha conmigo",
+                    "strWidth": 194.40625
                 }
             ]
         },
@@ -13991,8 +13991,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Nothing",
-                    "strWidth": 103.78125
+                    "str": "Nada",
+                    "strWidth": 69.5
                 }
             ]
         },
@@ -14021,8 +14021,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Lick it.",
-                    "strWidth": 85.578125
+                    "str": "Lámela",
+                    "strWidth": 92.03125
                 }
             ]
         },
@@ -14051,8 +14051,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "I’ll pass.",
-                    "strWidth": 104.78125
+                    "str": "Pasando",
+                    "strWidth": 108.40625
                 }
             ]
         },
@@ -14081,8 +14081,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Armored Mk. 1",
-                    "strWidth": 178.609375
+                    "str": "Acorazado Mk. 1",
+                    "strWidth": 205.0
                 }
             ]
         },
@@ -14111,8 +14111,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Armored Mk. 2",
-                    "strWidth": 178.609375
+                    "str": "Acorazado Mk. 2",
+                    "strWidth": 205.0
                 }
             ]
         },
@@ -14141,8 +14141,8 @@
                     "eventID": 7,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Original Forme",
-                    "strWidth": 194.4375
+                    "str": "Forma Original",
+                    "strWidth": 193.765625
                 }
             ]
         }
